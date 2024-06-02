@@ -16,15 +16,14 @@ class Solution {
       map.put(num, map.getOrDefault(num, 0) + 1);
     }
 
-    int index = 0;
+    int i = 0;
     for (int num = min; num <= max; num++) {
-      while (map.containsKey(num) && map.get(num) > 0) {
-        nums[index] = num;
-        index++;
+      while (map.containsKey(num) && map.get(num) != 0) {
+        nums[i] = num;
+        i++;
         map.put(num, map.get(num) - 1);
       }
     }
-
     return nums;
   }
 }
