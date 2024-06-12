@@ -45,3 +45,19 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/mohit6603/Leetcode/tree/master/0792-binary-search) |
+# Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mohit6603/Leetcode/tree/master/1013-fibonacci-number) |
+# Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mohit6603/Leetcode/tree/master/1013-fibonacci-number) |
+# Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mohit6603/Leetcode/tree/master/1013-fibonacci-number) |
+# Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mohit6603/Leetcode/tree/master/1013-fibonacci-number) |
