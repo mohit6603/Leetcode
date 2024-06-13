@@ -11,6 +11,7 @@
 # Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/mohit6603/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/mohit6603/Leetcode/tree/master/0948-sort-an-array) |
 # Sorting
 |  |
@@ -61,3 +62,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/mohit6603/Leetcode/tree/master/1013-fibonacci-number) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/mohit6603/Leetcode/tree/master/0191-number-of-1-bits) |
