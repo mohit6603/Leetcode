@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/mohit6603/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/mohit6603/Leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/mohit6603/Leetcode/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/mohit6603/Leetcode/tree/master/0169-majority-element) |
 | [0792-binary-search](https://github.com/mohit6603/Leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/mohit6603/Leetcode/tree/master/0948-sort-an-array) |
@@ -72,9 +73,11 @@
 # Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mohit6603/Leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/mohit6603/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mohit6603/Leetcode/tree/master/0191-number-of-1-bits) |
 # Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/mohit6603/Leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/mohit6603/Leetcode/tree/master/0078-subsets) |
