@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohit6603/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mohit6603/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/mohit6603/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mohit6603/Leetcode/tree/master/0078-subsets) |
@@ -81,3 +82,11 @@
 | ------- |
 | [0046-permutations](https://github.com/mohit6603/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mohit6603/Leetcode/tree/master/0078-subsets) |
+# Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mohit6603/Leetcode/tree/master/0011-container-with-most-water) |
+# Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mohit6603/Leetcode/tree/master/0011-container-with-most-water) |
