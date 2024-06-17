@@ -15,6 +15,7 @@
 | [0792-binary-search](https://github.com/mohit6603/Leetcode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/mohit6603/Leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/mohit6603/Leetcode/tree/master/0948-sort-an-array) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/mohit6603/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -48,11 +49,13 @@
 | ------- |
 | [0169-majority-element](https://github.com/mohit6603/Leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/mohit6603/Leetcode/tree/master/0948-sort-an-array) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/mohit6603/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 # Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohit6603/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/mohit6603/Leetcode/tree/master/0169-majority-element) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/mohit6603/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 # Binary Search
 |  |
 | ------- |
