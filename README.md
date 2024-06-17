@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohit6603/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mohit6603/Leetcode/tree/master/0169-majority-element) |
 | [0792-binary-search](https://github.com/mohit6603/Leetcode/tree/master/0792-binary-search) |
+| [0932-monotonic-array](https://github.com/mohit6603/Leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/mohit6603/Leetcode/tree/master/0948-sort-an-array) |
 # Divide and Conquer
 |  |
