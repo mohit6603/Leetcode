@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/mohit6603/Leetcode/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohit6603/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -99,3 +100,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohit6603/Leetcode/tree/master/0011-container-with-most-water) |
+# Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohit6603/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
