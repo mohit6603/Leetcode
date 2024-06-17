@@ -75,6 +75,7 @@
 # Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mohit6603/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/mohit6603/Leetcode/tree/master/1013-fibonacci-number) |
 # Memoization
 |  |
@@ -104,5 +105,6 @@
 # Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mohit6603/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/mohit6603/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohit6603/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
