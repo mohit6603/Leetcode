@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/mohit6603/Leetcode/tree/master/0169-majority-element) |
 | [0792-binary-search](https://github.com/mohit6603/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/mohit6603/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/mohit6603/Leetcode/tree/master/0817-design-hashmap) |
 | [0932-monotonic-array](https://github.com/mohit6603/Leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/mohit6603/Leetcode/tree/master/0948-sort-an-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/mohit6603/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -57,6 +58,7 @@
 | [0001-two-sum](https://github.com/mohit6603/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/mohit6603/Leetcode/tree/master/0169-majority-element) |
 | [0816-design-hashset](https://github.com/mohit6603/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/mohit6603/Leetcode/tree/master/0817-design-hashmap) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/mohit6603/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 # Binary Search
 |  |
@@ -109,13 +111,16 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mohit6603/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/mohit6603/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/mohit6603/Leetcode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/mohit6603/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohit6603/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 # Design
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/mohit6603/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/mohit6603/Leetcode/tree/master/0817-design-hashmap) |
 # Hash Function
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/mohit6603/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/mohit6603/Leetcode/tree/master/0817-design-hashmap) |
