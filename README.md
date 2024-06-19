@@ -79,6 +79,7 @@
 # Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mohit6603/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/mohit6603/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/mohit6603/Leetcode/tree/master/1013-fibonacci-number) |
 # Memoization
@@ -109,6 +110,7 @@
 # Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mohit6603/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/mohit6603/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/mohit6603/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mohit6603/Leetcode/tree/master/0817-design-hashmap) |
