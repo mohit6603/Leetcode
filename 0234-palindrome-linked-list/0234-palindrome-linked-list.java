@@ -9,19 +9,17 @@
  * }
  */
 class Solution {
+    ListNode curr ;
     public boolean isPalindrome(ListNode head) {
-        
-        ListNode curr = head;
-        Stack<Integer> st = new Stack<>();
-        while(curr != null){
-            st.push(curr.val);
-            curr = curr.next;
-        }
         curr = head;
-        while(curr != null && curr.val == st.pop()){
-            curr = curr.next;
-        }
-        return curr == null;
+        return solve(head);
+    }
 
+    public boolean solve(ListNode head){
+        if(head == null) return true;
+
+        boolean ans = solve(head.next) && head.val == curr.val;
+        curr = curr.next;
+        return ans;
     }
 }
