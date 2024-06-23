@@ -17,6 +17,7 @@
 | [0817-design-hashmap](https://github.com/mohit6603/Leetcode/tree/master/0817-design-hashmap) |
 | [0932-monotonic-array](https://github.com/mohit6603/Leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/mohit6603/Leetcode/tree/master/0948-sort-an-array) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/mohit6603/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/mohit6603/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 # Divide and Conquer
 |  |
@@ -149,6 +150,7 @@
 | [0933-increasing-order-search-tree](https://github.com/mohit6603/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/mohit6603/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 # String
 |  |
 | ------- |
@@ -170,3 +172,11 @@
 |  |
 | ------- |
 | [0933-increasing-order-search-tree](https://github.com/mohit6603/Leetcode/tree/master/0933-increasing-order-search-tree) |
+# Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/mohit6603/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+# Simulation
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/mohit6603/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
