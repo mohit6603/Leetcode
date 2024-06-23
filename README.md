@@ -12,6 +12,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohit6603/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohit6603/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mohit6603/Leetcode/tree/master/0169-majority-element) |
+| [0682-baseball-game](https://github.com/mohit6603/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/mohit6603/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/mohit6603/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/mohit6603/Leetcode/tree/master/0817-design-hashmap) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mohit6603/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/mohit6603/Leetcode/tree/master/0682-baseball-game) |
 | [0933-increasing-order-search-tree](https://github.com/mohit6603/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohit6603/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -181,6 +183,7 @@
 # Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/mohit6603/Leetcode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/mohit6603/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 # Monotonic Stack
 |  |
