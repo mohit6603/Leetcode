@@ -146,6 +146,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mohit6603/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0933-increasing-order-search-tree](https://github.com/mohit6603/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 # String
@@ -153,3 +154,19 @@
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+# Tree
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/mohit6603/Leetcode/tree/master/0933-increasing-order-search-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/mohit6603/Leetcode/tree/master/0933-increasing-order-search-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/mohit6603/Leetcode/tree/master/0933-increasing-order-search-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [0933-increasing-order-search-tree](https://github.com/mohit6603/Leetcode/tree/master/0933-increasing-order-search-tree) |
