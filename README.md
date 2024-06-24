@@ -152,6 +152,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/mohit6603/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/mohit6603/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/mohit6603/Leetcode/tree/master/0682-baseball-game) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/mohit6603/Leetcode/tree/master/0933-increasing-order-search-tree) |
 # Depth-First Search
@@ -178,6 +180,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/mohit6603/Leetcode/tree/master/0933-increasing-order-search-tree) |
 # Binary Search Tree
@@ -189,6 +192,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/mohit6603/Leetcode/tree/master/0933-increasing-order-search-tree) |
 # Queue
 |  |
