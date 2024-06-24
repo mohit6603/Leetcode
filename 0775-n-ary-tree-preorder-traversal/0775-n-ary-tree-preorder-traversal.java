@@ -18,23 +18,16 @@ class Node {
 */
 
 class Solution {
+
+    List<Integer> al = new ArrayList<>();
     public List<Integer> preorder(Node root) {
-        List<Integer> al = new ArrayList<>();
         if(root == null) return al;
 
-        Stack<Node> st = new Stack<>();
-        st.push(root);
+        al.add(root.val);
 
-        while(!st.isEmpty()){
-            Node node = st.pop();
-            al.add(node.val);
-
-            for(int i = node.children.size()-1; i>=0; i--){
-                Node child = node.children.get(i);
-                st.push(child);
-            }
+        for(Node n : root.children){
+            preorder(n);
         }
-
         return al;
     }
 }
