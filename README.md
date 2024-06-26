@@ -20,6 +20,7 @@
 | [0932-monotonic-array](https://github.com/mohit6603/Leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/mohit6603/Leetcode/tree/master/0948-sort-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohit6603/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1720-crawler-log-folder](https://github.com/mohit6603/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/mohit6603/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/mohit6603/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 # Divide and Conquer
@@ -168,6 +169,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mohit6603/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohit6603/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/mohit6603/Leetcode/tree/master/1666-make-the-string-great) |
+| [1720-crawler-log-folder](https://github.com/mohit6603/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/mohit6603/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mohit6603/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -178,6 +180,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mohit6603/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/mohit6603/Leetcode/tree/master/1666-make-the-string-great) |
+| [1720-crawler-log-folder](https://github.com/mohit6603/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mohit6603/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 # Tree
