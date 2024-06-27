@@ -20,12 +20,16 @@ class Node {
 class Solution {
     List<Integer> al = new ArrayList<>();
     public List<Integer> postorder(Node root) {
-        if(root == null) return new ArrayList<>();
+        if(root == null) return al;
+        helperPostorder(root);
+        return al;
+    }
 
-        for(Node node : root.children){
-            postorder(node);
+    public void helperPostorder(Node root){
+        if(root.children == null) return;
+        for(Node child : root.children){
+            helperPostorder(child);
         }
         al.add(root.val);
-        return al;
     }
 }
