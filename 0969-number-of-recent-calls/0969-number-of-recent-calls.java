@@ -7,8 +7,8 @@ class RecentCounter {
     
     public int ping(int t) {
         q.add(t);
-        while(!q.isEmpty() && t-3000 > q.peek() && t > q.peek()){
-            q.remove();
+        while(q.peek() < t-3000){
+            q.poll();
         }
         return q.size();
     }
