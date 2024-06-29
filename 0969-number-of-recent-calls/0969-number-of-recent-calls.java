@@ -6,23 +6,11 @@ class RecentCounter {
     }
     
     public int ping(int t) {
-        if(q.size() == 0) {
-            q.add(t);
-            return 1;
+        q.add(t);
+        while(!q.isEmpty() && t-3000 > q.peek()){
+            q.remove();
         }
-        else{
-            if(t <= 3000) {
-                q.add(t);
-            }
-            else {
-                int margin = t-3000;
-                    while(q.size() != 0 && q.peek() < margin){
-                        q.poll();
-                    }
-                    q.add(t);
-            }
-            return q.size();
-        }
+        return q.size();
     }
 }
 
