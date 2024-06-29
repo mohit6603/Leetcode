@@ -243,4 +243,16 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohit6603/Leetcode/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/mohit6603/Leetcode/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/mohit6603/Leetcode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/mohit6603/Leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
