@@ -282,6 +282,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mohit6603/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mohit6603/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/mohit6603/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -289,6 +290,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mohit6603/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/mohit6603/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -301,6 +303,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mohit6603/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mohit6603/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/mohit6603/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -314,4 +317,5 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/mohit6603/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mohit6603/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
