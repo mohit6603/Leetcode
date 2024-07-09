@@ -260,6 +260,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohit6603/Leetcode/tree/master/0001-two-sum) |
 | [2195-time-needed-to-buy-tickets](https://github.com/mohit6603/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
@@ -268,6 +269,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohit6603/Leetcode/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohit6603/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
