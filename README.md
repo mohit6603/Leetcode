@@ -332,4 +332,12 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mohit6603/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Sorting
+|  |
+| ------- |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/mohit6603/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/mohit6603/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 <!---LeetCode Topics End-->
