@@ -235,6 +235,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohit6603/Leetcode/tree/master/0070-climbing-stairs) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohit6603/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -335,6 +336,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mohit6603/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohit6603/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
