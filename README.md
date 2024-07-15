@@ -356,4 +356,8 @@
 |  |
 | ------- |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/mohit6603/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/mohit6603/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
