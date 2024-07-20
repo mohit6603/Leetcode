@@ -234,6 +234,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mohit6603/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/mohit6603/Leetcode/tree/master/0070-climbing-stairs) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohit6603/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
@@ -365,4 +366,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/mohit6603/Leetcode/tree/master/0344-reverse-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/mohit6603/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
