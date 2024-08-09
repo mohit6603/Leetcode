@@ -264,6 +264,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohit6603/Leetcode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/mohit6603/Leetcode/tree/master/0046-permutations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/mohit6603/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
@@ -378,4 +379,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mohit6603/Leetcode/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/mohit6603/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
