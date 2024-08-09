@@ -300,6 +300,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/mohit6603/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/mohit6603/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mohit6603/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/mohit6603/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mohit6603/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/mohit6603/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2384-root-equals-sum-of-children](https://github.com/mohit6603/Leetcode/tree/master/2384-root-equals-sum-of-children) |
@@ -313,6 +314,7 @@
 | [0226-invert-binary-tree](https://github.com/mohit6603/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mohit6603/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/mohit6603/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0933-increasing-order-search-tree](https://github.com/mohit6603/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mohit6603/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/mohit6603/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
@@ -320,6 +322,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mohit6603/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mohit6603/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/mohit6603/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mohit6603/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -334,6 +337,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/mohit6603/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/mohit6603/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mohit6603/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/mohit6603/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mohit6603/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/mohit6603/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2384-root-equals-sum-of-children](https://github.com/mohit6603/Leetcode/tree/master/2384-root-equals-sum-of-children) |
@@ -343,6 +347,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohit6603/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0933-increasing-order-search-tree](https://github.com/mohit6603/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1078-remove-outermost-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
