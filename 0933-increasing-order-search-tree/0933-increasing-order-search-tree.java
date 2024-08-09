@@ -15,16 +15,21 @@
  */
 class Solution {
     public TreeNode increasingBST(TreeNode root) {
-        TreeNode result = new TreeNode();
-        helper(root, result);
-        return result.right;
+        ArrayList<Integer> al = new ArrayList<>();
+        inorder(root, al);
+        return buildtree(al);
+    }
+    public void inorder(TreeNode root, ArrayList<Integer> al){
+        if(root == null) return;
+        inorder(root.left, al);
+        al.add(root.val);
+        inorder(root.right, al);
     }
 
-    private TreeNode helper(TreeNode root, TreeNode result){
-        if(root == null) return result;
-        result = helper(root.left, result);
-        result.right = new TreeNode(root.val);
-        result = helper(root.right, result.right);
-        return result;
+    public TreeNode buildtree(ArrayList<Integer> al){
+        if(al.size() == 0) return null;
+        TreeNode temp = new TreeNode(al.remove(0));
+        temp.right = buildtree(al);
+        return temp;
     }
 }
