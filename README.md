@@ -250,6 +250,7 @@
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/mohit6603/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0969-number-of-recent-calls](https://github.com/mohit6603/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -275,10 +276,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohit6603/Leetcode/tree/master/0001-two-sum) |
+| [0208-implement-trie-prefix-tree](https://github.com/mohit6603/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohit6603/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/mohit6603/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/mohit6603/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohit6603/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -390,4 +393,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/mohit6603/Leetcode/tree/master/0046-permutations) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/mohit6603/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
