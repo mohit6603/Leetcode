@@ -11,7 +11,7 @@ class Trie {
         return root.find(word);
     }
     public boolean startsWith(String word) {
-        return root.startsWith(word, 0);
+        return root.startsWith(word);
     }
     
     //trie ka implementation
@@ -52,15 +52,15 @@ class Trie {
             return curr.eow;
         }
 
-        private boolean startsWith(String prefix, int idx){
-            if(idx >= prefix.length()) return false;
+        private boolean startsWith(String word){
             Node curr = root;
-            curr = ref[prefix.charAt(idx)-'a'];
+            for(int i = 0; i<word.length(); i++){
+                int idx = word.charAt(i)-'a';
+                if(curr.ref[idx] == null) return false;
 
-            if(curr == null) return false;
-            if(idx == prefix.length() -1) return true;
-
-            return curr.startsWith(prefix, idx+1);
+                curr = curr.ref[idx];
+            }
+            return true;
         }
     }
 }
