@@ -1,62 +1,61 @@
 class Trie {
-    Node root;
 
+    Node root;
     public Trie() {
         root = new Node();
     }
-    
     public void insert(String word) {
-        root.put(word);
+        root.add(word);
     }
-    
     public boolean search(String word) {
         return root.find(word);
     }
-    
-    public boolean startsWith(String prefix) {
-        return root.startsWith(prefix, 0);
+    public boolean startsWith(String word) {
+        return root.startsWith(word, 0);
     }
-
+    
+    //trie ka implementation
     class Node{
-        Node[] children;
+        Node[] ref;
         boolean eow;
 
         Node(){
-            children = new Node[26];
+            ref = new Node[26];
         }
 
-        private void put(String word){
+        private void add(String word){
             Node curr = root;
-            for(int level = 0; level < word.length(); level++){
-                int idx = word.charAt(level) - 'a';
+            for(int i = 0; i<word.length(); i++){
+                int idx = word.charAt(i) - 'a';
 
-                if(curr.children[idx] == null){
-                    curr.children[idx] = new Node();
+                if(curr.ref[idx] == null){
+                    curr.ref[idx] = new Node();
                 }
-                curr = curr.children[idx];
+                curr = curr.ref[idx]; 
             }
-
             curr.eow = true;
         }
 
         private boolean find(String word){
             Node curr = root;
-            for(int level = 0; level < word.length(); level++){
-                int idx = word.charAt(level) - 'a';
-                if(curr.children[idx] == null){
+
+            for(int i = 0; i<word.length(); i++){
+                int idx = word.charAt(i) - 'a';
+
+                if(curr.ref[idx] == null){
                     return false;
                 }
-
-                curr  = curr.children[idx];
+                curr  = curr.ref[idx];
             }
-
-            return curr.eow == true;
+            //return (curr.eow == true) ? true : false;
+            //return curr.eow == true;
+            return curr.eow;
         }
 
         private boolean startsWith(String prefix, int idx){
             if(idx >= prefix.length()) return false;
             Node curr = root;
-            curr = children[prefix.charAt(idx)-'a'];
+            curr = ref[prefix.charAt(idx)-'a'];
 
             if(curr == null) return false;
             if(idx == prefix.length() -1) return true;
