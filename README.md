@@ -266,6 +266,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohit6603/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/mohit6603/Leetcode/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0088-merge-sorted-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/mohit6603/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -385,6 +386,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/mohit6603/Leetcode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/mohit6603/Leetcode/tree/master/0908-middle-of-the-linked-list) |
