@@ -270,6 +270,7 @@
 | [0046-permutations](https://github.com/mohit6603/Leetcode/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0088-merge-sorted-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/mohit6603/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/mohit6603/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Simulation
 |  |
 | ------- |
@@ -280,6 +281,7 @@
 | [0001-two-sum](https://github.com/mohit6603/Leetcode/tree/master/0001-two-sum) |
 | [0208-implement-trie-prefix-tree](https://github.com/mohit6603/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohit6603/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/mohit6603/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## String
 |  |
 | ------- |
@@ -368,6 +370,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/mohit6603/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/mohit6603/Leetcode/tree/master/0338-counting-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohit6603/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/mohit6603/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Sorting
 |  |
 | ------- |
@@ -402,4 +405,9 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/mohit6603/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/mohit6603/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/mohit6603/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
