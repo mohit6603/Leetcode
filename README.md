@@ -269,6 +269,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/mohit6603/Leetcode/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/mohit6603/Leetcode/tree/master/0136-single-number) |
 | [2195-time-needed-to-buy-tickets](https://github.com/mohit6603/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mohit6603/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Simulation
@@ -367,6 +368,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mohit6603/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/mohit6603/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/mohit6603/Leetcode/tree/master/0338-counting-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohit6603/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
