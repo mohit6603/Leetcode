@@ -271,6 +271,7 @@
 | [0046-permutations](https://github.com/mohit6603/Leetcode/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/mohit6603/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/mohit6603/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mohit6603/Leetcode/tree/master/0268-missing-number) |
 | [2195-time-needed-to-buy-tickets](https://github.com/mohit6603/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mohit6603/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -282,6 +283,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohit6603/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/mohit6603/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/mohit6603/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/mohit6603/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohit6603/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -297,6 +299,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mohit6603/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohit6603/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
@@ -382,6 +385,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mohit6603/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mohit6603/Leetcode/tree/master/0268-missing-number) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/mohit6603/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Heap (Priority Queue)
@@ -418,4 +422,8 @@
 |  |
 | ------- |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mohit6603/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mohit6603/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
