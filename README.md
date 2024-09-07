@@ -236,6 +236,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/mohit6603/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/mohit6603/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/mohit6603/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohit6603/Leetcode/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohit6603/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohit6603/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -380,6 +381,7 @@
 | ------- |
 | [0136-single-number](https://github.com/mohit6603/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/mohit6603/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/mohit6603/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohit6603/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/mohit6603/Leetcode/tree/master/0338-counting-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohit6603/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -414,6 +416,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mohit6603/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/mohit6603/Leetcode/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
