@@ -1,19 +1,11 @@
 class Solution {
-    int steps = 0;
+    int steps;
     public int numberOfSteps(int num) {
-        if(num == 0){
-            return steps;
-        }
+        if(num == 0) return steps;
+        steps++;
+        if(num%2 == 0) return numberOfSteps(num/2);
+        else numberOfSteps(num-1);
 
-        else if(num%2 == 0){
-            steps++; 
-            return numberOfSteps(num/2);
-        }
-
-        else{
-            steps++; 
-            return numberOfSteps(num-1);
-        }
-        //return steps;
+        return steps;
     }
 }
