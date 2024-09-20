@@ -14,22 +14,19 @@ class Node {
         val = _val;
         children = _children;
     }
-};
+}
 */
 
 class Solution {
     List<Integer> al = new ArrayList<>();
     public List<Integer> postorder(Node root) {
-        if(root == null) return al;
-        helperPostorder(root);
-        return al;
-    }
+        if(root == null) return new ArrayList<>();
 
-    public void helperPostorder(Node root){
-        if(root.children == null) return;
-        for(Node child : root.children){
-            helperPostorder(child);
+        for(Node node : root.children){
+            postorder(node);
         }
         al.add(root.val);
+        return al;
+
     }
 }
