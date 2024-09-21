@@ -1,37 +1,34 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-
         List<List<Integer>> result = new ArrayList<>();
-        List<Integer> curr = new ArrayList<>();
-        boolean visit[] = new boolean[nums.length];
+        helper(0, nums, result);
 
-        backtrack(nums, result, curr, visit);
         return result;
     }
 
-    public void backtrack(int[] nums, List<List<Integer>> result, List<Integer> curr, boolean visit[]){
+    public void swap(int i, int j, int nums[]){
+        int t = nums[i];
+        nums[i] = nums[j];
+        nums[j] = t;
+    }
 
-        // base case
-        if(curr.size() == nums.length){
-            result.add(new ArrayList(curr));
+    public void helper(int index, int nums[], List<List<Integer>> result){
+        
+        //base case
+        if(index == nums.length){
+            List<Integer> ans = new ArrayList<>();
+            for(int i = 0; i<nums.length; i++){
+                ans.add(nums[i]);
+            }
+            result.add(new ArrayList<>(ans));
             return;
         }
 
-        // iterate
-        for(int i = 0; i<nums.length; i++){
-            if(visit[i] == true) continue;
-
-            // add to curr
-            curr.add(nums[i]);
-            visit[i] = true;
-
-            // func call
-            backtrack(nums, result, curr, visit);
-
-            //remove in bcktrk
-            curr.remove(curr.size()-1);
-            visit[i] = false;
-
+        //kaam
+        for(int i = index; i<nums.length; i++){
+            swap(i, index, nums);
+            helper(index+1, nums, result);
+            swap(i, index, nums);
         }
     }
 }
