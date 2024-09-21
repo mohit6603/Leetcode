@@ -1,28 +1,37 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> mainlist = new ArrayList<>();
-        List<Integer> templist = new ArrayList<>();
-        boolean visited[] = new boolean[nums.length];
-        backtrack(mainlist, templist, nums, visited);
-        return mainlist;
+
+        List<List<Integer>> result = new ArrayList<>();
+        List<Integer> curr = new ArrayList<>();
+        boolean visit[] = new boolean[nums.length];
+
+        backtrack(nums, result, curr, visit);
+        return result;
     }
 
-    public void backtrack(List<List<Integer>> mainlist, List<Integer> templist, int[] nums, boolean[] visited){
+    public void backtrack(int[] nums, List<List<Integer>> result, List<Integer> curr, boolean visit[]){
 
-        //base case 
-        if(templist.size() == nums.length){
-            mainlist.add(new ArrayList<>(templist));
+        // base case
+        if(curr.size() == nums.length){
+            result.add(new ArrayList(curr));
             return;
         }
 
-        //addtn
+        // iterate
         for(int i = 0; i<nums.length; i++){
-            if(visited[i] == true) continue;
-            templist.add(nums[i]);
-            visited[i] = true;
-            backtrack(mainlist, templist, nums, visited);
-            templist.remove(templist.size()-1);
-            visited[i] = false;
+            if(visit[i] == true) continue;
+
+            // add to curr
+            curr.add(nums[i]);
+            visit[i] = true;
+
+            // func call
+            backtrack(nums, result, curr, visit);
+
+            //remove in bcktrk
+            curr.remove(curr.size()-1);
+            visit[i] = false;
+
         }
     }
 }
