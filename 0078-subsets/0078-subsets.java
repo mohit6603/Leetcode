@@ -3,20 +3,23 @@ class Solution {
         List<List<Integer>> result = new ArrayList<>();
         List<Integer> subset = new ArrayList<>();
 
-        backtrack(result, subset, 0, nums);
+        helper(0, nums, result, subset);
+
         return result;
     }
 
-    public static void backtrack(List<List<Integer>> result, List<Integer> subset, int i, int[]nums){
-        if(i == nums.length){
-            result.add(new ArrayList(subset));
+    public void helper(int idx, int nums[], List<List<Integer>> result, List<Integer> subset){
+        //base case
+        if(idx == nums.length){
+            result.add(new ArrayList<>(subset));
             return;
         }
 
-        subset.add(nums[i]);
-        backtrack(result, subset, i+1, nums);
-
+        //kaam 1add  1remove
+        subset.add(nums[idx]);
+        helper(idx+1, nums, result, subset);
         subset.remove(subset.size()-1);
-        backtrack(result, subset, i+1, nums);
+        helper(idx+1, nums, result, subset);
+
     }
 }
