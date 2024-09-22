@@ -270,6 +270,7 @@
 | [0001-two-sum](https://github.com/mohit6603/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/mohit6603/Leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/mohit6603/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/mohit6603/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mohit6603/Leetcode/tree/master/0169-majority-element) |
@@ -382,6 +383,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mohit6603/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mohit6603/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/mohit6603/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/mohit6603/Leetcode/tree/master/0231-power-of-two) |
@@ -424,6 +426,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/mohit6603/Leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/mohit6603/Leetcode/tree/master/0078-subsets) |
 ## Trie
 |  |
 | ------- |
