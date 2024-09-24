@@ -1,32 +1,30 @@
 class Solution {
-
-    //simulate--approch
     public int countStudents(int[] students, int[] sandwiches) {
-        Stack<Integer> sand = new Stack<>();
-        for(int i = students.length-1; i >= 0; i--){
-            sand.push(sandwiches[i]);
-        }
+        int zero = 0;
+        int one = 0;
+        int ans = 0;
+        int n = sandwiches.length;
 
-        Queue<Integer> stud = new LinkedList<>();
         for(int i : students){
-            stud.add(i);
+            if(i == 0) zero++;
+            else one++;
         }
 
-        int noteat = 0;
-        while(!stud.isEmpty() && noteat < stud.size()){
-            if(sand.peek() == stud.peek()){
-                sand.pop();
-                stud.poll();
-                noteat = 0;
+        for(int i = 0; i<sandwiches.length; i++){
+            if((sandwiches[i] == 0 && zero == 0) || (sandwiches[i] == 1 && one == 0)){
+                ans = n-i;
+                break;
             }
-            else{
-                stud.add(stud.peek());
-                stud.poll();
-                noteat++;
+
+            else if(sandwiches[i] == 0 && zero > 0){
+                zero--;
             }
+            else if(sandwiches[i] == 1 && one > 0){
+                one--;
+            }
+
         }
 
-        return stud.size();
-
+        return ans;
     }
 }
