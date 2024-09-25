@@ -1,33 +1,36 @@
+//simulation tc = 0(n) + 0(n)
+// sc = 0(n);
+
 class Solution {
-    int score;
+    public int calPoints(String[] ops) {
+        int ans = 0;
+        List<Integer> list = new ArrayList<>();
 
-    public int calPoints(String[] operations) {
-        ArrayList<Integer> al = new ArrayList<>();
-        for (int i = 0; i < operations.length; i++) {
-            String operation = operations[i];
+        for(int i = 0; i < ops.length; i++){
+            String s = ops[i];
 
-            if (operation.equals("C")) {
-                if (!al.isEmpty()) {
-                    al.remove(al.size() - 1);
-                }
-            } else if (operation.equals("D")) {
-                if (al.size() >= 1) {
-                    al.add(al.get(al.size() - 1) * 2);
-                }
-            } else if (operation.equals("+")) {
-                if (al.size() >= 2) {
-                    int sum = al.get(al.size() - 1) + al.get(al.size() - 2);
-                    al.add(sum);
-                }
-            } else {
-                String s = operation;
-                al.add(Integer.parseInt(s));
+            if(s.equals("+")){
+                int j = list.get(list.size()-1) + list.get(list.size()-2);
+                list.add(j);
+            }
+
+            else if (s.equals("C")){
+                list.remove(list.size()-1);
+            }
+            else if (s.equals("D")){
+                int j = list.get(list.size()-1);
+                list.add(2*j);
+            }
+            else{  
+                list.add(Integer.parseInt(s));
             }
         }
 
-        for (int i = 0; i < al.size(); i++) {
-            score += al.get(i);
+        
+        for(int i : list){
+            ans += i;
         }
-        return score;
+
+        return ans;
     }
 }
