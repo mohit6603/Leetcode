@@ -14,14 +14,19 @@
  * }
  */
 class Solution {
-    List<Integer> list = new ArrayList<>();
     public List<Integer> inorderTraversal(TreeNode root) {
-        if(root == null) return list;
+        List<Integer> list = new ArrayList<>();
+        Stack<TreeNode> st = new Stack<>();
 
-        
-        inorderTraversal(root.left);
-        list.add(root.val);
-        inorderTraversal(root.right);
+        while(root != null || !st.isEmpty()){
+            while(root != null){
+                st.push(root);
+                root = root.left;
+            }
+            root = st.pop();
+            list.add(root.val);
+            root = root.right;
+        }
 
         return list;
     }
