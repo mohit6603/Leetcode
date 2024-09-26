@@ -280,6 +280,7 @@
 | [0268-missing-number](https://github.com/mohit6603/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mohit6603/Leetcode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/mohit6603/Leetcode/tree/master/0682-baseball-game) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/mohit6603/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohit6603/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/mohit6603/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/mohit6603/Leetcode/tree/master/2058-concatenation-of-array) |
