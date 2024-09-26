@@ -299,6 +299,7 @@
 | [0169-majority-element](https://github.com/mohit6603/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/mohit6603/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/mohit6603/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mohit6603/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohit6603/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohit6603/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mohit6603/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -306,6 +307,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/mohit6603/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/mohit6603/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mohit6603/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohit6603/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -414,6 +416,7 @@
 | [0164-maximum-gap](https://github.com/mohit6603/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/mohit6603/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohit6603/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mohit6603/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohit6603/Leetcode/tree/master/0268-missing-number) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/mohit6603/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Heap (Priority Queue)
