@@ -1,25 +1,14 @@
+// inbuilt functions
+// tc = 0(n) + 0(n logn)
+
 class Solution {
     public boolean isAnagram(String s, String t) {
-        HashMap<Character , Integer> map = new HashMap<>();
+        char[] ss = s.toCharArray();
+        char[] tt = t.toCharArray();
 
-        for(int i = 0; i<s.length(); i++){
-            char ch = s.charAt(i);
-            map.put(ch, map.getOrDefault(ch, 0)+1);
-        }
+        Arrays.sort(ss);
+        Arrays.sort(tt);
 
-        for(int i = 0; i<t.length(); i++){
-            char ch = t.charAt(i);
-            if(map.containsKey(ch) == false){
-                return false;
-            }
-            else if(map.get(ch) == 1){
-                map.remove(ch);
-            }
-            else{
-                map.put(ch, map.get(ch)-1);
-            }
-        }
-
-        return map.size() == 0;
+        return Arrays.equals(ss, tt);
     }
 }
