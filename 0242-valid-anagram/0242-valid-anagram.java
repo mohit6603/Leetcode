@@ -1,35 +1,19 @@
-// map soln
-
-
 class Solution {
     public boolean isAnagram(String s, String t) {
         if(s.length() != t.length()) return false;
-        Map<Character, Integer> map = new HashMap<>();
-        for(int i = 0; i<s.length(); i++){
-            char c = s.charAt(i);
-            if(map.containsKey(c)){
-                map.put(c, map.get(c)+1);
-            }
-            else{
-                map.put(c, 1);
-            }
+        int nums[] = new int[26];
+        for(char c : s.toCharArray()){
+            nums[c-'a']++;
         }
 
-        for(int i = 0; i<t.length(); i++){
-            char c = t.charAt(i);
-            if(map.containsKey(c)){
-                map.put(c, map.get(c)-1);
-            }
-            else{
-                return false;
-            }
+        for(char c : t.toCharArray()){
+            nums[c-'a']--;
         }
 
-        for(int i : map.values()){
-            if(i > 0){
-                return false;
-            }
+        for(int  i : nums){
+            if(i>0) return false;
         }
+
         return true;
     }
 }
