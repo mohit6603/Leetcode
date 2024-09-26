@@ -245,6 +245,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohit6603/Leetcode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/mohit6603/Leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/mohit6603/Leetcode/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -311,6 +312,7 @@
 | [0242-valid-anagram](https://github.com/mohit6603/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mohit6603/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohit6603/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/mohit6603/Leetcode/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Counting
@@ -438,6 +440,7 @@
 | [0088-merge-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/mohit6603/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mohit6603/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/mohit6603/Leetcode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/mohit6603/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
