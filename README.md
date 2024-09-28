@@ -244,6 +244,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohit6603/Leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/mohit6603/Leetcode/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/mohit6603/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/mohit6603/Leetcode/tree/master/0392-is-subsequence) |
 ## Memoization
@@ -275,6 +276,7 @@
 | [0046-permutations](https://github.com/mohit6603/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mohit6603/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/mohit6603/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mohit6603/Leetcode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/mohit6603/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/mohit6603/Leetcode/tree/master/0169-majority-element) |
