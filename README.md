@@ -284,6 +284,7 @@
 | [0268-missing-number](https://github.com/mohit6603/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mohit6603/Leetcode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/mohit6603/Leetcode/tree/master/0682-baseball-game) |
+| [0965-unique-email-addresses](https://github.com/mohit6603/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/mohit6603/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohit6603/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/mohit6603/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -307,6 +308,7 @@
 | [0242-valid-anagram](https://github.com/mohit6603/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohit6603/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohit6603/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0965-unique-email-addresses](https://github.com/mohit6603/Leetcode/tree/master/0965-unique-email-addresses) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mohit6603/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## String
 |  |
@@ -317,6 +319,7 @@
 | [0344-reverse-string](https://github.com/mohit6603/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohit6603/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mohit6603/Leetcode/tree/master/0392-is-subsequence) |
+| [0965-unique-email-addresses](https://github.com/mohit6603/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1078-remove-outermost-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Counting
