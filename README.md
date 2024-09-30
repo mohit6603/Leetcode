@@ -283,6 +283,7 @@
 | [0217-contains-duplicate](https://github.com/mohit6603/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mohit6603/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mohit6603/Leetcode/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/mohit6603/Leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/mohit6603/Leetcode/tree/master/0682-baseball-game) |
 | [0965-unique-email-addresses](https://github.com/mohit6603/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/mohit6603/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -486,4 +487,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/mohit6603/Leetcode/tree/master/0164-maximum-gap) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/mohit6603/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
