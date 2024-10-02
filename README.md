@@ -290,6 +290,7 @@
 | [0605-can-place-flowers](https://github.com/mohit6603/Leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/mohit6603/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/mohit6603/Leetcode/tree/master/0724-find-pivot-index) |
+| [0932-monotonic-array](https://github.com/mohit6603/Leetcode/tree/master/0932-monotonic-array) |
 | [0965-unique-email-addresses](https://github.com/mohit6603/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/mohit6603/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohit6603/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
