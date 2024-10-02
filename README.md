@@ -255,6 +255,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/mohit6603/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0303-range-sum-query-immutable](https://github.com/mohit6603/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0969-number-of-recent-calls](https://github.com/mohit6603/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -283,6 +284,7 @@
 | [0217-contains-duplicate](https://github.com/mohit6603/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mohit6603/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mohit6603/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/mohit6603/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohit6603/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mohit6603/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/mohit6603/Leetcode/tree/master/0605-can-place-flowers) |
@@ -506,5 +508,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/mohit6603/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/mohit6603/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
