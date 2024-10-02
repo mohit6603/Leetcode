@@ -1,5 +1,5 @@
 class NumArray {
-    int ans[];
+    private int ans[];
     public NumArray(int[] nums) {
         this.ans = nums;
     }
@@ -7,7 +7,7 @@ class NumArray {
     public int sumRange(int left, int right) {
         int sum = 0;
         for(int i = left; i<= right; i++){
-            sum += ans[i];
+            sum += this.ans[i];
         }
         return sum;
     }
