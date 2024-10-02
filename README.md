@@ -316,6 +316,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohit6603/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mohit6603/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0965-unique-email-addresses](https://github.com/mohit6603/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1297-maximum-number-of-balloons](https://github.com/mohit6603/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mohit6603/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## String
 |  |
@@ -329,12 +330,14 @@
 | [0392-is-subsequence](https://github.com/mohit6603/Leetcode/tree/master/0392-is-subsequence) |
 | [0965-unique-email-addresses](https://github.com/mohit6603/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1078-remove-outermost-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1297-maximum-number-of-balloons](https://github.com/mohit6603/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mohit6603/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohit6603/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohit6603/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1297-maximum-number-of-balloons](https://github.com/mohit6603/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Tree
 |  |
 | ------- |
