@@ -256,6 +256,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/mohit6603/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/mohit6603/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0817-design-hashmap](https://github.com/mohit6603/Leetcode/tree/master/0817-design-hashmap) |
 | [0969-number-of-recent-calls](https://github.com/mohit6603/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -290,6 +291,7 @@
 | [0605-can-place-flowers](https://github.com/mohit6603/Leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/mohit6603/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/mohit6603/Leetcode/tree/master/0724-find-pivot-index) |
+| [0817-design-hashmap](https://github.com/mohit6603/Leetcode/tree/master/0817-design-hashmap) |
 | [0932-monotonic-array](https://github.com/mohit6603/Leetcode/tree/master/0932-monotonic-array) |
 | [0965-unique-email-addresses](https://github.com/mohit6603/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/mohit6603/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -318,6 +320,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/mohit6603/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohit6603/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mohit6603/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0817-design-hashmap](https://github.com/mohit6603/Leetcode/tree/master/0817-design-hashmap) |
 | [0965-unique-email-addresses](https://github.com/mohit6603/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/mohit6603/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mohit6603/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -453,6 +456,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mohit6603/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mohit6603/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0817-design-hashmap](https://github.com/mohit6603/Leetcode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/mohit6603/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohit6603/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
@@ -511,4 +515,8 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mohit6603/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/mohit6603/Leetcode/tree/master/0724-find-pivot-index) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/mohit6603/Leetcode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
