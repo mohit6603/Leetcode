@@ -1,21 +1,57 @@
 class MyHashMap {
+    List<Pair>[] bucket;
+    int size=10000;
+    static class Pair{
+        int key;
+        int value;
 
-    int arr[] ;
+        Pair(int key, int value){
+            this.key = key;
+            this.value = value;
+        }
+    }
     public MyHashMap() {
-        arr = new int[1000001];
-        Arrays.fill(arr, -1);
+        bucket = new LinkedList[size];
+        for(int i = 0; i < size; i++){
+            bucket[i] = new LinkedList<>();
+        }
     }
     
     public void put(int key, int value) {
-        arr[key] = value;
+        int bcktNo = key%size;
+        List<Pair> chain = bucket[bcktNo];
+
+        for(Pair p : chain){
+            if(p.key == key){
+                p.value = value;
+                return;
+            }
+        }
+        chain.add(new Pair(key, value));
     }
     
     public int get(int key) {
-        return arr[key];
+        int bcktNo = key%size;
+        List<Pair> chain = bucket[bcktNo];
+
+        for(Pair p : chain){
+            if(p.key == key){
+                return p.value;
+            }
+        }
+        return -1;
     }
     
     public void remove(int key) {
-        arr[key] = -1;
+        int bcktNo = key%size;
+        List<Pair> chain = bucket[bcktNo];
+
+        for(Pair p : chain){
+            if(p.key == key){
+                chain.remove(p);
+                return ;
+            }
+        }
     }
 }
 
