@@ -8,9 +8,9 @@ class Solution {
             if(s.charAt(lp) != s.charAt(rp)){
                 return false;
             }
-            lp++; 
+            lp++;
             rp--;
         }
-        return true; 
+        return true;
     }
 }
