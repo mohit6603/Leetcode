@@ -278,6 +278,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mohit6603/Leetcode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/mohit6603/Leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/mohit6603/Leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/mohit6603/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mohit6603/Leetcode/tree/master/0118-pascals-triangle) |
@@ -315,6 +316,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohit6603/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/mohit6603/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/mohit6603/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/mohit6603/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/mohit6603/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -334,6 +336,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohit6603/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/mohit6603/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/mohit6603/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mohit6603/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/mohit6603/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -450,6 +453,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mohit6603/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/mohit6603/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/mohit6603/Leetcode/tree/master/0169-majority-element) |
