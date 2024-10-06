@@ -1,6 +1,5 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        // if(strs = null || strs.length == 0) return new ArrayList<>();
 
         Map<String, List<String>> map = new HashMap<>();
 
@@ -10,7 +9,7 @@ class Solution {
                 ch[c - 'a']++;
             }
 
-            String keyStr = String.valueOf(ch);
+            String keyStr = new String(ch);
 
             if(!map.containsKey(keyStr)){
                 map.put(keyStr, new ArrayList<>());
