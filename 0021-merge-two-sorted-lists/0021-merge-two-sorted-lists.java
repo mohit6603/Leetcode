@@ -10,8 +10,6 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        if(list1 == null) return list2;
-        if(list2 == null) return list1;
         ListNode dummy = new ListNode();
         ListNode curr = dummy;
 
@@ -27,10 +25,13 @@ class Solution {
             curr = curr.next;
         }
 
-        //curr.next = (list1 != null) ? list1 : list2;
-        if(list1 != null) curr.next = list1;
-        else curr.next = list2;
-        return dummy.next;
+        if(list1 != null){
+            curr.next = list1;
+        }
+        if(list2 != null){
+            curr.next = list2;
+        }
 
+        return dummy.next;
     }
 }
