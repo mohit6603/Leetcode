@@ -22,11 +22,10 @@ class Solution {
         TreeNode temp = root.left;
         root.left = root.right;
         root.right = temp;
-
-        invertTree(root.left);
+        
         invertTree(root.right);
+        invertTree(root.left);
 
         return root;
-
     }
 }
