@@ -276,6 +276,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mohit6603/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mohit6603/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/mohit6603/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mohit6603/Leetcode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/mohit6603/Leetcode/tree/master/0046-permutations) |
@@ -466,6 +467,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mohit6603/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/mohit6603/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/mohit6603/Leetcode/tree/master/0164-maximum-gap) |
@@ -494,6 +496,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohit6603/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/mohit6603/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mohit6603/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0088-merge-sorted-array) |
