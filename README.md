@@ -275,6 +275,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohit6603/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mohit6603/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mohit6603/Leetcode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/mohit6603/Leetcode/tree/master/0046-permutations) |
@@ -492,6 +493,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mohit6603/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mohit6603/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mohit6603/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -544,6 +546,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mohit6603/Leetcode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/mohit6603/Leetcode/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
