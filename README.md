@@ -299,6 +299,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohit6603/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mohit6603/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/mohit6603/Leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/mohit6603/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/mohit6603/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/mohit6603/Leetcode/tree/master/0724-find-pivot-index) |
 | [0816-design-hashset](https://github.com/mohit6603/Leetcode/tree/master/0816-design-hashset) |
@@ -532,6 +533,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/mohit6603/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mohit6603/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Divide and Conquer
 |  |
